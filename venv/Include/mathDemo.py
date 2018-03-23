@@ -15,3 +15,10 @@
 @desc:
 
 '''
+import math
+import cmath
+print(dir(math)[1:10])
+print(dir(math)[10:20])
+print(dir(math)[20:30])
+print(dir(math)[30:40])
+print(dir(math)[40:])
